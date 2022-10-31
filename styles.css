@@ -1,0 +1,40 @@
+.container{
+    background-color:#F5F5F5;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 10px;
+    font-size: 100px;
+    color: rgb(3, 47, 67);
+}
+.row1{
+    padding-top: 20px;
+   
+
+}
+h2{
+    font-family: 'Oswald', sans-serif;
+    
+}
+p{
+text-align: justify;
+
+}
+.textclass{
+    text-align:justify ;
+    
+}
+#plasticimg{
+    height:370px;
+    width: 300px;
+    padding: 10px;
+    align-items: center;
+}
+#linespacing{
+    line-height: 30px;
+}
+.diffcolor{
+    color:rgb(9, 74, 82);
+}

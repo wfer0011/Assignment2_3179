@@ -1,0 +1,30 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 450, "height": 410,
+  "background":"#F5F5F5",
+    "title":"Plastic disposable method",
+
+    "data": {"url": "global-plastic-fate.csv"},
+   
+    
+    "mark": "area",
+    "encoding": {
+      "x": {
+         "field": "Year","type": "nominal"
+       
+      },
+      "y": {
+        "aggregate": "sum", "field": "Percentage","sort":"ascending"
+      },
+      "color": {
+        "field": "Entity",
+        "scale": {"domain": ["Discarded","Incinerated","Recycled"], "range": ["#f4a261", "#e9c46a", "#2a9d8f"]}
+
+      },
+      "tooltip":[{"field":"Entity"} ,
+                {"field":"Percentage"},
+                {"field":"Year"}
+    ]
+    }
+  }
+  

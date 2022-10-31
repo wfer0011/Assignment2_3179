@@ -1,0 +1,21 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 200,
+    "height": 220,
+    "background":"#F5F5F5",
+    "description": "Plastic exports to china",
+    "data":{"url": "plastic-exports-to-china.csv"},
+    "mark": {"type": "arc", "innerRadius": 50},
+    "encoding": {
+      "theta": {"field": "Export", "type": "quantitative"},
+      "color": {"field": "Entity", "type": "nominal" ,
+      "scale": {"domain": ["Australia","Belgium","Canada","Germany","Hong Kong","Indonesia","Japan","Philippines","Thailand","USA"],
+       "range": ["#001219","#005F73","#0A9396","#94D2BD","#E9D8A6","#EE9B00","#CA6702","#BB3E03","#AE2012","#9B2226"]}},
+    
+    "tooltip": [
+        {"field": "Entity","title":"Country"},
+        {"field": "Export","title":"Plastic Exports(million tonnes)"}
+      
+    
+        ]
+    }}

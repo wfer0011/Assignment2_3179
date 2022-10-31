@@ -1,0 +1,42 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 440,
+    "height": 420,
+    "background":"#F5F5F5",
+    "title": "GDP per capita vs Plastic emmitted to the ocean per capita ",
+    "data": {
+    "url": "ocean_pc_l_cpopulation.csv"
+    },
+    "mark": "circle",
+    "encoding": {
+    "x": {
+    "field": "Plasticwaste(grams)",
+    "type": "quantitative",
+    "title": "Plastic waste in grams"
+    },
+    "y": {
+    "field": "GDP",
+    "type": "quantitative",
+    "title": "GDP per capita"
+
+    },
+    "color": {
+    "field": "region",
+    "type": "nominal",
+    "scale": {"domain": ["Americas","Europe","Africa","Asia","Oceania"],
+       "range": ["#005F73","#0A9396","#BB3E03","#AE2012","orange"]}
+    
+},
+"size": {
+"field": "GDP",
+"type": "quantitative"
+},
+
+"tooltip":[
+    {"field":"Entity"},
+    {"field":"GDP","title":"GDP in USD"},
+    {"field":"Population(intenthousands)","title":"Population in ten thousands"}
+]
+}
+}
+    

@@ -1,0 +1,174 @@
+Entity,Code,Year,Mismanaged waste (% global total),ISO 3166 Country Code,Latitude,Longitude,alpha-2,alpha-3,country-code,iso_3166-2,Continent,sub-region,intermediate-region,region-code,sub-region-code,intermediate-region-code
+China,CHN,2010,27.6966,CN,35,105,CN,CHN,156,ISO 3166-2:CN,Asia,Eastern Asia,,142,30,
+Indonesia,IDN,2010,10.1019,ID,-5,120,ID,IDN,360,ISO 3166-2:ID,Asia,South-eastern Asia,,142,35,
+Philippines,PHL,2010,5.9153,PH,13,122,PH,PHL,608,ISO 3166-2:PH,Asia,South-eastern Asia,,142,35,
+Vietnam,VNM,2010,5.7588,VN,16,106,VN,VNM,704,ISO 3166-2:VN,Asia,South-eastern Asia,,142,35,
+Sri Lanka,LKA,2010,4.9968,LK,7,81,LK,LKA,144,ISO 3166-2:LK,Asia,Southern Asia,,142,34,
+Thailand,THA,2010,3.2274,TH,15,100,TH,THA,764,ISO 3166-2:TH,Asia,South-eastern Asia,,142,35,
+Egypt,EGY,2010,3.0367,EG,27,30,EG,EGY,818,ISO 3166-2:EG,Africa,Northern Africa,,2,15,
+Malaysia,MYS,2010,2.9419,MY,2.5,112.5,MY,MYS,458,ISO 3166-2:MY,Asia,South-eastern Asia,,142,35,
+Nigeria,NGA,2010,2.674,NG,10,8,NG,NGA,566,ISO 3166-2:NG,Africa,Sub-Saharan Africa,Western Africa,2,202,11
+Bangladesh,BGD,2010,2.4725,BD,24,90,BD,BGD,50,ISO 3166-2:BD,Asia,Southern Asia,,142,34,
+South Africa,ZAF,2010,1.9784,ZA,-29,24,ZA,ZAF,710,ISO 3166-2:ZA,Africa,Sub-Saharan Africa,Southern Africa,2,202,18
+India,IND,2010,1.8836,IN,20,77,IN,IND,356,ISO 3166-2:IN,Asia,Southern Asia,,142,34,
+Algeria,DZA,2010,1.6347,DZ,28,3,DZ,DZA,12,ISO 3166-2:DZ,Africa,Northern Africa,,2,15,
+Turkey,TUR,2010,1.526,TR,39,35,TR,TUR,792,ISO 3166-2:TR,Asia,Western Asia,,142,145,
+Pakistan,PAK,2010,1.5089,PK,30,70,PK,PAK,586,ISO 3166-2:PK,Asia,Southern Asia,,142,34,
+Brazil,BRA,2010,1.4804,BR,-10,-55,BR,BRA,76,ISO 3166-2:BR,Americas,Latin America and the Caribbean,South America,19,419,5
+Myanmar,MMR,2010,1.4391,MM,22,98,MM,MMR,104,ISO 3166-2:MM,Asia,South-eastern Asia,,142,35,
+Morocco,MAR,2010,0.9739,MA,32,-5,MA,MAR,504,ISO 3166-2:MA,Africa,Northern Africa,,2,15,
+North Korea,PRK,2010,0.9557,,40,127,,,,,Asia,,,,,
+United States of America,USA,2010,0.8649,US,38,-97,US,USA,840,ISO 3166-2:US,Americas,Northern America,,19,21,
+Senegal,SEN,2010,0.8001,SN,14,-14,SN,SEN,686,ISO 3166-2:SN,Africa,Sub-Saharan Africa,Western Africa,2,202,11
+Iran,IRN,2010,0.7769,,32,53,,,,,Asia,,,,,
+Tunisia,TUN,2010,0.7358,TN,34,9,TN,TUN,788,ISO 3166-2:TN,Africa,Northern Africa,,2,15,
+Côte d'Ivoire,CIV,2010,0.611,CI,7.5,-5.5,,,,,Africa,,,,,
+Peru,PER,2010,0.6106,PE,-10,-76,PE,PER,604,ISO 3166-2:PE,Americas,Latin America and the Caribbean,South America,19,419,5
+Yemen,YEM,2010,0.531,YE,15,48,YE,YEM,887,ISO 3166-2:YE,Asia,Western Asia,,142,145,
+Argentina,ARG,2010,0.4955,AR,-34,-64,AR,ARG,32,ISO 3166-2:AR,Americas,Latin America and the Caribbean,South America,19,419,5
+Haiti,HTI,2010,0.4628,HT,19,-72.42,HT,HTI,332,ISO 3166-2:HT,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Japan,JPN,2010,0.4494,JP,36,138,JP,JPN,392,ISO 3166-2:JP,Asia,Eastern Asia,,142,30,
+Ukraine,UKR,2010,0.4044,UA,49,32,UA,UKR,804,ISO 3166-2:UA,Europe,Eastern Europe,,150,151,
+El Salvador,SLV,2010,0.3729,SV,13.83,-88.92,SV,SLV,222,ISO 3166-2:SV,Americas,Latin America and the Caribbean,Central America,19,419,13
+Dominican Republic,DOM,2010,0.3713,DO,19,-70.67,DO,DOM,214,ISO 3166-2:DO,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Ecuador,ECU,2010,0.3435,EC,-2,-77.5,EC,ECU,218,ISO 3166-2:EC,Americas,Latin America and the Caribbean,South America,19,419,5
+Venezuela,VEN,2010,0.3214,VE,8,-66,VE,VEN,862,ISO 3166-2:VE,Americas,Latin America and the Caribbean,South America,19,419,5
+Somalia,SOM,2010,0.3188,SO,10,49,SO,SOM,706,ISO 3166-2:SO,Africa,Sub-Saharan Africa,Eastern Africa,2,202,14
+Mexico,MEX,2010,0.3182,MX,23,-102,MX,MEX,484,ISO 3166-2:MX,Americas,Latin America and the Caribbean,Central America,19,419,13
+Honduras,HND,2010,0.3003,HN,15,-86.5,HN,HND,340,ISO 3166-2:HN,Americas,Latin America and the Caribbean,Central America,19,419,13
+Trinidad and Tobago,TTO,2010,0.2954,TT,11,-61,TT,TTO,780,ISO 3166-2:TT,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Colombia,COL,2010,0.2895,CO,4,-72,CO,COL,170,ISO 3166-2:CO,Americas,Latin America and the Caribbean,South America,19,419,5
+Ghana,GHA,2010,0.2876,GH,8,-2,GH,GHA,288,ISO 3166-2:GH,Africa,Sub-Saharan Africa,Western Africa,2,202,11
+Guatemala,GTM,2010,0.2875,GT,15.5,-90.25,GT,GTM,320,ISO 3166-2:GT,Americas,Latin America and the Caribbean,Central America,19,419,13
+Cuba,CUB,2010,0.2846,CU,21.5,-80,CU,CUB,192,ISO 3166-2:CU,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Papua New Guinea,PNG,2010,0.2821,PG,-6,147,PG,PNG,598,ISO 3166-2:PG,Oceania,Melanesia,,9,54,
+Nicaragua,NIC,2010,0.2651,NI,13,-85,NI,NIC,558,ISO 3166-2:NI,Americas,Latin America and the Caribbean,Central America,19,419,13
+Russia,RUS,2010,0.2536,,60,100,,,,,Asia,,,,,
+United Kingdom,GBR,2010,0.2121,GB,54,-2,GB,GBR,826,ISO 3166-2:GB,Europe,Northern Europe,,150,154,
+Angola,AGO,2010,0.1964,AO,-12.5,18.5,AO,AGO,24,ISO 3166-2:AO,Africa,Sub-Saharan Africa,Middle Africa,2,202,17
+Comoros,COM,2010,0.1822,KM,-12.17,44.25,KM,COM,174,ISO 3166-2:KM,Africa,Sub-Saharan Africa,Eastern Africa,2,202,14
+Liberia,LBR,2010,0.1781,LR,6.5,-9.5,LR,LBR,430,ISO 3166-2:LR,Africa,Sub-Saharan Africa,Western Africa,2,202,11
+Mauritius,MUS,2010,0.176,MU,-20.28,57.55,MU,MUS,480,ISO 3166-2:MU,Africa,Sub-Saharan Africa,Eastern Africa,2,202,14
+Libya,LBY,2010,0.1657,,25,17,,,,,Africa,,,,,
+Fiji,FJI,2010,0.1547,FJ,-18,175,FJ,FJI,242,ISO 3166-2:FJ,Oceania,Melanesia,,9,54,
+Lebanon,LBN,2010,0.1502,LB,33.83,35.83,LB,LBN,422,ISO 3166-2:LB,Asia,Western Asia,,142,145,
+Mozambique,MOZ,2010,0.1444,MZ,-18.25,35,MZ,MOZ,508,ISO 3166-2:MZ,Africa,Sub-Saharan Africa,Eastern Africa,2,202,14
+Spain,ESP,2010,0.144,ES,40,-4,ES,ESP,724,ISO 3166-2:ES,Europe,Southern Europe,,150,39,
+Taiwan,TWN,2010,0.1436,TW,23.5,121,TW,TWN,158,ISO 3166-2:TW,Asia,Eastern Asia,,142,30,
+Benin,BEN,2010,0.1351,BJ,9.5,2.25,BJ,BEN,204,ISO 3166-2:BJ,Africa,Sub-Saharan Africa,Western Africa,2,202,11
+Costa Rica,CRI,2010,0.1322,CR,10,-84,CR,CRI,188,ISO 3166-2:CR,Americas,Latin America and the Caribbean,Central America,19,419,13
+Guyana,GUY,2010,0.1319,GY,5,-59,GY,GUY,328,ISO 3166-2:GY,Americas,Latin America and the Caribbean,South America,19,419,5
+Sierra Leone,SLE,2010,0.1143,SL,8.5,-11.5,SL,SLE,694,ISO 3166-2:SL,Africa,Sub-Saharan Africa,Western Africa,2,202,11
+Togo,TGO,2010,0.1112,TG,8,1.17,TG,TGO,768,ISO 3166-2:TG,Africa,Sub-Saharan Africa,Western Africa,2,202,11
+Madagascar,MDG,2010,0.1084,MG,-20,47,MG,MDG,450,ISO 3166-2:MG,Africa,Sub-Saharan Africa,Eastern Africa,2,202,14
+Panama,PAN,2010,0.108,PA,9,-80,PA,PAN,591,ISO 3166-2:PA,Americas,Latin America and the Caribbean,Central America,19,419,13
+South Korea,KOR,2010,0.106,,37,127.5,,,,,Asia,,,,,
+Italy,ITA,2010,0.1029,IT,42.83,12.83,IT,ITA,380,ISO 3166-2:IT,Europe,Southern Europe,,150,39,
+Maldives,MDV,2010,0.0988,MV,3.25,73,MV,MDV,462,ISO 3166-2:MV,Asia,Southern Asia,,142,34,
+Germany,DEU,2010,0.0981,DE,51,9,DE,DEU,276,ISO 3166-2:DE,Europe,Western Europe,,150,155,
+Albania,ALB,2010,0.0933,AL,41,20,AL,ALB,8,ISO 3166-2:AL,Europe,Southern Europe,,150,39,
+Cambodia,KHM,2010,0.0932,KH,13,105,KH,KHM,116,ISO 3166-2:KH,Asia,South-eastern Asia,,142,35,
+Hong Kong,HKG,2010,0.0895,HK,22.25,114.17,HK,HKG,344,ISO 3166-2:HK,Asia,Eastern Asia,,142,30,
+Cameroon,CMR,2010,0.087,CM,6,12,CM,CMR,120,ISO 3166-2:CM,Africa,Sub-Saharan Africa,Middle Africa,2,202,17
+Netherlands,NLD,2010,0.087,NL,52.5,5.75,NL,NLD,528,ISO 3166-2:NL,Europe,Western Europe,,150,155,
+France,FRA,2010,0.0757,FR,46,2,FR,FRA,250,ISO 3166-2:FR,Europe,Western Europe,,150,155,
+Sudan,SDN,2010,0.072,SD,15,30,SD,SDN,729,ISO 3166-2:SD,Africa,Northern Africa,,2,15,
+Kenya,KEN,2010,0.0712,KE,1,38,KE,KEN,404,ISO 3166-2:KE,Africa,Sub-Saharan Africa,Eastern Africa,2,202,14
+Vanuatu,VUT,2010,0.0706,VU,-16,167,VU,VUT,548,ISO 3166-2:VU,Oceania,Melanesia,,9,54,
+Chile,CHL,2010,0.0683,CL,-30,-71,CL,CHL,152,ISO 3166-2:CL,Americas,Latin America and the Caribbean,South America,19,419,5
+Uruguay,URY,2010,0.0677,UY,-33,-56,UY,URY,858,ISO 3166-2:UY,Americas,Latin America and the Caribbean,South America,19,419,5
+Saudi Arabia,SAU,2010,0.0645,SA,25,45,SA,SAU,682,ISO 3166-2:SA,Asia,Western Asia,,142,145,
+Solomon Islands,SLB,2010,0.064,SB,-8,159,SB,SLB,90,ISO 3166-2:SB,Oceania,Melanesia,,9,54,
+Gambia,GMB,2010,0.0616,GM,13.47,-16.57,GM,GMB,270,ISO 3166-2:GM,Africa,Sub-Saharan Africa,Western Africa,2,202,11
+Israel,ISR,2010,0.0597,IL,31.5,34.75,IL,ISR,376,ISO 3166-2:IL,Asia,Western Asia,,142,145,
+Bulgaria,BGR,2010,0.0588,BG,43,25,BG,BGR,100,ISO 3166-2:BG,Europe,Eastern Europe,,150,151,
+Guinea,GIN,2010,0.0581,GN,11,-10,GN,GIN,324,ISO 3166-2:GN,Africa,Sub-Saharan Africa,Western Africa,2,202,11
+Djibouti,DJI,2010,0.0544,DJ,11.5,43,DJ,DJI,262,ISO 3166-2:DJ,Africa,Sub-Saharan Africa,Eastern Africa,2,202,14
+Congo,COG,2010,0.0527,CG,-1,15,CG,COG,178,ISO 3166-2:CG,Africa,Sub-Saharan Africa,Middle Africa,2,202,17
+Puerto Rico,PRI,2010,0.0519,PR,18.25,-66.5,PR,PRI,630,ISO 3166-2:PR,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Croatia,HRV,2010,0.0517,HR,45.17,15.5,HR,HRV,191,ISO 3166-2:HR,Europe,Southern Europe,,150,39,
+Portugal,PRT,2010,0.0515,PT,39.5,-8,PT,PRT,620,ISO 3166-2:PT,Europe,Southern Europe,,150,39,
+Eritrea,ERI,2010,0.0511,ER,15,39,ER,ERI,232,ISO 3166-2:ER,Africa,Sub-Saharan Africa,Eastern Africa,2,202,14
+Poland,POL,2010,0.0493,PL,52,20,PL,POL,616,ISO 3166-2:PL,Europe,Eastern Europe,,150,151,
+Iraq,IRQ,2010,0.0489,IQ,33,44,IQ,IRQ,368,ISO 3166-2:IQ,Asia,Western Asia,,142,145,
+Democratic Republic of Congo,COD,2010,0.0478,CD,0,25,CD,COD,180,ISO 3166-2:CD,Africa,Sub-Saharan Africa,Middle Africa,2,202,17
+Dem. Rep. Congo,COD,2010,0.0478,,0,25,,,,,Africa,,,,,
+Georgia,GEO,2010,0.0454,GE,42,43.5,GE,GEO,268,ISO 3166-2:GE,Asia,Western Asia,,142,145,
+Greece,GRC,2010,0.0447,GR,39,22,GR,GRC,300,ISO 3166-2:GR,Europe,Southern Europe,,150,39,
+Australia,AUS,2010,0.0436,AU,-27,133,AU,AUS,36,ISO 3166-2:AU,Oceania,Australia and New Zealand,,9,53,
+Mauritania,MRT,2010,0.0435,MR,20,-12,MR,MRT,478,ISO 3166-2:MR,Africa,Sub-Saharan Africa,Western Africa,2,202,11
+Bosnia and Herzegovina,BIH,2010,0.0407,BA,44,18,BA,BIH,70,ISO 3166-2:BA,Europe,Southern Europe,,150,39,
+Ireland,IRL,2010,0.0368,IE,53,-8,IE,IRL,372,ISO 3166-2:IE,Europe,Northern Europe,,150,154,
+Kuwait,KWT,2010,0.0361,KW,29.34,47.66,KW,KWT,414,ISO 3166-2:KW,Asia,Western Asia,,142,145,
+Latvia,LVA,2010,0.0323,LV,57,25,LV,LVA,428,ISO 3166-2:LV,Europe,Northern Europe,,150,154,
+Jamaica,JAM,2010,0.0315,JM,18.25,-77.5,JM,JAM,388,ISO 3166-2:JM,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Cape Verde,CPV,2010,0.0294,CV,16,-24,CV,CPV,132,ISO 3166-2:CV,Africa,Sub-Saharan Africa,Western Africa,2,202,11
+New Zealand,NZL,2010,0.0292,NZ,-41,174,NZ,NZL,554,ISO 3166-2:NZ,Oceania,Australia and New Zealand,,9,53,
+Norway,NOR,2010,0.0264,NO,62,10,NO,NOR,578,ISO 3166-2:NO,Europe,Northern Europe,,150,154,
+Canada,CAN,2010,0.025,CA,60,-95,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,,19,21,
+Saint Lucia,LCA,2010,0.0211,LC,13.88,-61.13,LC,LCA,662,ISO 3166-2:LC,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Tonga,TON,2010,0.0208,TO,-20,-175,TO,TON,776,ISO 3166-2:TO,Oceania,Polynesia,,9,61,
+Guadeloupe,GLP,2010,0.0206,GP,16.25,-61.58,GP,GLP,312,ISO 3166-2:GP,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Singapore,SGP,2010,0.0203,SG,1.37,103.8,SG,SGP,702,ISO 3166-2:SG,Asia,South-eastern Asia,,142,35,
+Gabon,GAB,2010,0.0191,GA,-1,11.75,GA,GAB,266,ISO 3166-2:GA,Africa,Sub-Saharan Africa,Middle Africa,2,202,17
+Equatorial Guinea,GNQ,2010,0.0188,GQ,2,10,GQ,GNQ,226,ISO 3166-2:GQ,Africa,Sub-Saharan Africa,Middle Africa,2,202,17
+Estonia,EST,2010,0.0188,EE,59,26,EE,EST,233,ISO 3166-2:EE,Europe,Northern Europe,,150,154,
+Namibia,NAM,2010,0.0172,,-22,17,,NAM,516,ISO 3166-2:NA,Africa,Sub-Saharan Africa,Southern Africa,2,202,18
+Samoa,WSM,2010,0.0161,WS,-13.58,-172.33,WS,WSM,882,ISO 3166-2:WS,Oceania,Polynesia,,9,61,
+Sao Tome and Principe,STP,2010,0.016,ST,1,7,ST,STP,678,ISO 3166-2:ST,Africa,Sub-Saharan Africa,Middle Africa,2,202,17
+Finland,FIN,2010,0.0157,FI,64,26,FI,FIN,246,ISO 3166-2:FI,Europe,Northern Europe,,150,154,
+Oman,OMN,2010,0.0146,OM,21,57,OM,OMN,512,ISO 3166-2:OM,Asia,Western Asia,,142,145,
+Seychelles,SYC,2010,0.0145,SC,-4.58,55.67,SC,SYC,690,ISO 3166-2:SC,Africa,Sub-Saharan Africa,Eastern Africa,2,202,14
+Montenegro,MNE,2010,0.0139,ME,42,19,ME,MNE,499,ISO 3166-2:ME,Europe,Southern Europe,,150,39,
+Bahrain,BHR,2010,0.0137,BH,26,50.55,BH,BHR,48,ISO 3166-2:BH,Asia,Western Asia,,142,145,
+Suriname,SUR,2010,0.0124,SR,4,-56,SR,SUR,740,ISO 3166-2:SR,Americas,Latin America and the Caribbean,South America,19,419,5
+Belize,BLZ,2010,0.0122,BZ,17.25,-88.75,BZ,BLZ,84,ISO 3166-2:BZ,Americas,Latin America and the Caribbean,Central America,19,419,13
+Romania,ROU,2010,0.0113,RO,46,25,RO,ROU,642,ISO 3166-2:RO,Europe,Eastern Europe,,150,151,
+Barbados,BRB,2010,0.0109,BB,13.17,-59.53,BB,BRB,52,ISO 3166-2:BB,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Lithuania,LTU,2010,0.0109,LT,56,24,LT,LTU,440,ISO 3166-2:LT,Europe,Northern Europe,,150,154,
+Marshall Islands,MHL,2010,0.01,MH,9,168,MH,MHL,584,ISO 3166-2:MH,Oceania,Micronesia,,9,57,
+Kiribati,KIR,2010,0.0096,KI,1.42,173,KI,KIR,296,ISO 3166-2:KI,Oceania,Micronesia,,9,57,
+United Arab Emirates,ARE,2010,0.0095,AE,24,54,AE,ARE,784,ISO 3166-2:AE,Asia,Western Asia,,142,145,
+Belgium,BEL,2010,0.0086,BE,50.83,4,BE,BEL,56,ISO 3166-2:BE,Europe,Western Europe,,150,155,
+Malta,MLT,2010,0.0082,MT,35.83,14.58,MT,MLT,470,ISO 3166-2:MT,Europe,Southern Europe,,150,39,
+French Guiana,GUF,2010,0.0074,GF,4,-53,GF,GUF,254,ISO 3166-2:GF,Americas,Latin America and the Caribbean,South America,19,419,5
+Grenada,GRD,2010,0.0071,GD,12.12,-61.67,GD,GRD,308,ISO 3166-2:GD,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Saint Vincent and the Grenadines,VCT,2010,0.007,VC,13.25,-61.2,VC,VCT,670,ISO 3166-2:VC,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Sweden,SWE,2010,0.0068,SE,62,15,SE,SWE,752,ISO 3166-2:SE,Europe,Northern Europe,,150,154,
+Cyprus,CYP,2010,0.0057,CY,35,33,CY,CYP,196,ISO 3166-2:CY,Asia,Western Asia,,142,145,
+Denmark,DNK,2010,0.0056,DK,56,10,DK,DNK,208,ISO 3166-2:DK,Europe,Northern Europe,,150,154,
+Jordan,JOR,2010,0.0055,JO,31,36,JO,JOR,400,ISO 3166-2:JO,Asia,Western Asia,,142,145,
+Bahamas,BHS,2010,0.0042,BS,24.25,-76,BS,BHS,44,ISO 3166-2:BS,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+French Polynesia,PYF,2010,0.004,PF,-15,-140,PF,PYF,258,ISO 3166-2:PF,Oceania,Polynesia,,9,61,
+Antigua and Barbuda,ATG,2010,0.0039,AG,17.05,-61.8,AG,ATG,28,ISO 3166-2:AG,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Dominica,DMA,2010,0.0025,DM,15.42,-61.33,DM,DMA,212,ISO 3166-2:DM,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Martinique,MTQ,2010,0.0024,MQ,14.67,-61,MQ,MTQ,474,ISO 3166-2:MQ,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Qatar,QAT,2010,0.0024,QA,25.5,51.25,QA,QAT,634,ISO 3166-2:QA,Asia,Western Asia,,142,145,
+Macao,MAC,2010,0.0022,MO,22.17,113.55,MO,MAC,446,ISO 3166-2:MO,Asia,Eastern Asia,,142,30,
+Palau,PLW,2010,0.0022,PW,7.5,134.5,PW,PLW,585,ISO 3166-2:PW,Oceania,Micronesia,,9,57,
+Saint Kitts and Nevis,KNA,2010,0.0022,KN,17.33,-62.75,KN,KNA,659,ISO 3166-2:KN,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Iceland,ISL,2010,0.0019,IS,65,-18,IS,ISL,352,ISO 3166-2:IS,Europe,Northern Europe,,150,154,
+Nauru,NRU,2010,0.0017,NR,-0.53,166.92,NR,NRU,520,ISO 3166-2:NR,Oceania,Micronesia,,9,57,
+Slovenia,SVN,2010,0.0017,SI,46,15,SI,SVN,705,ISO 3166-2:SI,Europe,Southern Europe,,150,39,
+New Caledonia,NCL,2010,0.0015,NC,-21.5,165.5,NC,NCL,540,ISO 3166-2:NC,Oceania,Melanesia,,9,54,
+Tuvalu,TUV,2010,0.0014,TV,-8,178,TV,TUV,798,ISO 3166-2:TV,Oceania,Polynesia,,9,61,
+Cook Islands,COK,2010,0.0013,CK,-21.23,-159.77,CK,COK,184,ISO 3166-2:CK,Oceania,Polynesia,,9,61,
+Aruba,ABW,2010,0.0012,AW,12.5,-69.97,AW,ABW,533,ISO 3166-2:AW,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Guam,GUM,2010,0.0012,GU,13.47,144.78,GU,GUM,316,ISO 3166-2:GU,Oceania,Micronesia,,9,57,
+Northern Mariana Islands,MNP,2010,0.0007,MP,15.2,145.75,MP,MNP,580,ISO 3166-2:MP,Oceania,Micronesia,,9,57,
+Bermuda,BMU,2010,0.0004,BM,32.33,-64.75,BM,BMU,60,ISO 3166-2:BM,Americas,Northern America,,19,21,
+Brunei,BRN,2010,0.0003,BN,4.5,114.67,BN,BRN,96,ISO 3166-2:BN,Asia,South-eastern Asia,,142,35,
+Cayman Islands,CYM,2010,0.0003,KY,19.5,-80.5,KY,CYM,136,ISO 3166-2:KY,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Greenland,GRL,2010,0.0003,GL,72,-40,GL,GRL,304,ISO 3166-2:GL,Americas,Northern America,,19,21,
+Saint Helena,SHN,2010,0.0003,SH,-15.93,-5.7,SH,SHN,654,ISO 3166-2:SH,Africa,Sub-Saharan Africa,Western Africa,2,202,11
+Anguilla,AIA,2010,0.0002,AI,18.25,-63.17,AI,AIA,660,ISO 3166-2:AI,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Gibraltar,GIB,2010,0.0002,GI,36.18,-5.37,GI,GIB,292,ISO 3166-2:GI,Europe,Southern Europe,,150,39,
+Monaco,MCO,2010,0.0002,MC,43.73,7.4,MC,MCO,492,ISO 3166-2:MC,Europe,Western Europe,,150,155,
+Norfolk Island,NFK,2010,0.0002,NF,-29.03,167.95,NF,NFK,574,ISO 3166-2:NF,Oceania,Australia and New Zealand,,9,53,
+Turks and Caicos Islands,TCA,2010,0.0002,TC,21.75,-71.58,TC,TCA,796,ISO 3166-2:TC,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Montserrat,MSR,2010,0.0001,MS,16.75,-62.2,MS,MSR,500,ISO 3166-2:MS,Americas,Latin America and the Caribbean,Caribbean,19,419,29
+Tokelau,TKL,2010,0.0001,TK,-9,-172,TK,TKL,772,ISO 3166-2:TK,Oceania,Polynesia,,9,61,
+Christmas Island,CXR,2010,0,CX,-10.5,105.67,CX,CXR,162,ISO 3166-2:CX,Oceania,Australia and New Zealand,,9,53,
+Cocos Islands,CCK,2010,0,CC,-12.5,96.83,CC,CCK,166,ISO 3166-2:CC,Oceania,Australia and New Zealand,,9,53,
+Niue,NIU,2010,0,NU,-19.03,-169.87,NU,NIU,570,ISO 3166-2:NU,Oceania,Polynesia,,9,61,
+Saint Pierre and Miquelon,SPM,2010,0,PM,46.83,-56.33,PM,SPM,666,ISO 3166-2:PM,Americas,Northern America,,19,21,

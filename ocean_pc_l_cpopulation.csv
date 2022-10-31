@@ -1,0 +1,146 @@
+Entity,Code_x,Year_x,percapita_oceanwaste(kg),GDP,ISO 3166 Country Code,Entity1,Latitude,Longitude,region,sub-region,intermediate-region,Year_y,population,Plasticwaste(grams),Population(intenthousands)
+Philippines,PHL,2019,3.29616,8914.723633,PH,Philippines,13,122,Asia,South-eastern Asia,,2019,108117000,3296.160641,10811.7
+Suriname,SUR,2019,2.88640,19036.74414,SR,Suriname,4,-56,Americas,Latin America and the Caribbean,South America,2019,581000,2886.402754,58.1
+Trinidad and Tobago,TTO,2019,2.54982,25827.88477,TT,Trinidad and Tobago,11,-61,Americas,Latin America and the Caribbean,Caribbean,2019,1395000,2549.820789,139.5
+Saint Lucia,LCA,2019,2.45355,15200.87207,LC,Saint Lucia,13.88,-61.13,Americas,Latin America and the Caribbean,Caribbean,2019,183000,2453.551913,18.3
+Malaysia,MYS,2019,2.28789,28421.46289,MY,Malaysia,2.5,112.5,Asia,South-eastern Asia,,2019,31950000,2287.887324,3195
+Guyana,GUY,2019,1.59132,13082.18164,GY,Guyana,5,-59,Americas,Latin America and the Caribbean,South America,2019,783000,1591.315453,78.3
+Panama,PAN,2019,1.23340,31440.26367,PA,Panama,9,-80,Americas,Latin America and the Caribbean,Central America,2019,4246000,1233.396138,424.6
+Grenada,GRD,2019,1.16071,16867.57227,GD,Grenada,12.12,-61.67,Americas,Latin America and the Caribbean,Caribbean,2019,112000,1160.714286,11.2
+Belize,BLZ,2019,0.95897,7251.88623,BZ,Belize,17.25,-88.75,Americas,Latin America and the Caribbean,Central America,2019,390000,958.974359,39
+Jamaica,JAM,2019,0.79172,9777.005859,JM,Jamaica,18.25,-77.5,Americas,Latin America and the Caribbean,Caribbean,2019,2948000,791.723202,294.8
+Dominica,DMA,2019,0.73611,12368.93945,DM,Dominica,15.42,-61.33,Americas,Latin America and the Caribbean,Caribbean,2019,72000,736.111111,7.2
+Saint Vincent and the Grenadines,VCT,2019,0.72973,12489.1709,VC,Saint Vincent and the Grenadines,13.25,-61.2,Americas,Latin America and the Caribbean,Caribbean,2019,111000,729.72973,11.1
+Haiti,HTI,2019,0.61520,3073.329102,HT,Haiti,19,-72.42,Americas,Latin America and the Caribbean,Caribbean,2019,11263000,615.200213,1126.3
+Dominican Republic,DOM,2019,0.58441,18412.90039,DO,Dominican Republic,19,-70.67,Americas,Latin America and the Caribbean,Caribbean,2019,10739000,584.411956,1073.9
+Albania,ALB,2019,0.54321,13656.59277,AL,Albania,41,20,Europe,Southern Europe,,2019,2881000,543.214162,288.1
+Liberia,LBR,2019,0.53433,1469.763916,LR,Liberia,6.5,-9.5,Africa,Sub-Saharan Africa,Western Africa,2019,4937000,534.332591,493.7
+Sierra Leone,SLE,2019,0.46384,1705.191406,SL,Sierra Leone,8.5,-11.5,Africa,Sub-Saharan Africa,Western Africa,2019,7813000,463.842314,781.3
+Sri Lanka,LKA,2019,0.45273,13070.12598,LK,Sri Lanka,7,81,Asia,Southern Asia,,2019,21324000,452.729319,2132.4
+Cameroon,CMR,2019,0.41239,3742.856689,CM,Cameroon,6,12,Africa,Sub-Saharan Africa,Middle Africa,2019,25876000,412.389859,2587.6
+Fiji,FJI,2019,0.41011,13684.29199,FJ,Fiji,-18,175,Oceania,Melanesia,,2019,890000,410.11236,89
+Guatemala,GTM,2019,0.40623,8653.308594,GT,Guatemala,15.5,-90.25,Americas,Latin America and the Caribbean,Central America,2019,17581000,406.234003,1758.1
+Palau,PLW,2019,0.38889,17229.14844,PW,Palau,7.5,134.5,Oceania,Micronesia,,2019,18000,388.888889,1.8
+Sao Tome and Principe,STP,2019,0.35814,4005.341553,ST,Sao Tome and Principe,1,7,Africa,Sub-Saharan Africa,Middle Africa,2019,215000,358.139535,21.5
+Papua New Guinea,PNG,2019,0.34856,4293.129395,PG,Papua New Guinea,-6,147,Oceania,Melanesia,,2019,8776000,348.564266,877.6
+Thailand,THA,2019,0.32755,18453.4707,TH,Thailand,15,100,Asia,South-eastern Asia,,2019,69626000,327.550053,6962.6
+Brunei,BRN,2019,0.30947,62098.01172,BN,Brunei,4.5,114.67,Asia,South-eastern Asia,,2019,433000,309.468822,43.3
+Equatorial Guinea,GNQ,2019,0.29867,18502.56445,GQ,Equatorial Guinea,2,10,Africa,Sub-Saharan Africa,Middle Africa,2019,1356000,298.672566,135.6
+Vietnam,VNM,2019,0.29256,8041.178223,VN,Vietnam,16,106,Asia,South-eastern Asia,,2019,96462000,292.560801,9646.2
+Uruguay,URY,2019,0.28827,23032.73438,UY,Uruguay,-33,-56,Americas,Latin America and the Caribbean,South America,2019,3462000,288.272675,346.2
+Honduras,HND,2019,0.24995,5736.181641,HN,Honduras,15,-86.5,Americas,Latin America and the Caribbean,Central America,2019,9746000,249.948697,974.6
+Nicaragua,NIC,2019,0.22380,5451.665527,NI,Nicaragua,13,-85,Americas,Latin America and the Caribbean,Central America,2019,6546000,223.800794,654.6
+Indonesia,IDN,2019,0.20816,11811.97559,ID,Indonesia,-5,120,Asia,South-eastern Asia,,2019,270625984,208.158135,27062.5984
+Gabon,GAB,2019,0.20479,14945.85938,GA,Gabon,-1,11.75,Africa,Sub-Saharan Africa,Middle Africa,2019,2173000,204.78601,217.3
+Guinea,GIN,2019,0.18378,2567.033936,GN,Guinea,11,-10,Africa,Sub-Saharan Africa,Western Africa,2019,12771000,183.775742,1277.1
+Gambia,GMB,2019,0.17930,2224.909912,GM,Gambia,13.47,-16.57,Africa,Sub-Saharan Africa,Western Africa,2019,2348000,179.301533,234.8
+Brazil,BRA,2019,0.17910,14763.87207,BR,Brazil,-10,-55,Americas,Latin America and the Caribbean,South America,2019,211050000,179.099739,21105
+Turkey,TUR,2019,0.17175,28197.24805,TR,Turkey,39,35,Asia,Western Asia,,2019,83430000,171.748771,8343
+Barbados,BRB,2019,0.15679,15639.04785,BB,Barbados,13.17,-59.53,Americas,Latin America and the Caribbean,Caribbean,2019,287000,156.794425,28.7
+Bangladesh,BGD,2019,0.15112,4753.727051,BD,Bangladesh,24,90,Asia,Southern Asia,,2019,163046000,151.122996,16304.6
+Solomon Islands,SLB,2019,0.14925,2660.979736,SB,Solomon Islands,-8,159,Oceania,Melanesia,,2019,670000,149.253731,67
+Benin,BEN,2019,0.13889,3287.30957,BJ,Benin,9.5,2.25,Africa,Sub-Saharan Africa,Western Africa,2019,11801000,138.886535,1180.1
+Ghana,GHA,2019,0.13758,5540.04541,GH,Ghana,8,-2,Africa,Sub-Saharan Africa,Western Africa,2019,30418000,137.58301,3041.8
+Algeria,DZA,2019,0.13411,11521.98438,DZ,Algeria,28,3,Africa,Northern Africa,,2019,43053000,134.113767,4305.3
+Libya,LBY,2019,0.12970,15174.16211,LY,Libyan Arab Jamahiriya,25,17,Africa,Northern Africa,,2019,6777000,129.703409,677.7
+Congo,COG,2019,0.12563,3825.701416,CD,Democratic Republic of Congo,0,25,Africa,Sub-Saharan Africa,Middle Africa,2019,5381000,125.627207,538.1
+Congo,COG,2019,0.12563,3825.701416,CG,Congo,-1,15,Africa,Sub-Saharan Africa,Middle Africa,2019,5381000,125.627207,538.1
+El Salvador,SLV,2019,0.12519,8776.119141,SV,El Salvador,13.83,-88.92,Americas,Latin America and the Caribbean,Central America,2019,6454000,125.193678,645.4
+Lebanon,LBN,2019,0.09977,14563.68262,LB,Lebanon,33.83,35.83,Asia,Western Asia,,2019,6856000,99.766628,685.6
+Tanzania,TZA,2019,0.09973,2660.637451,TZ,"Tanzania, United Republic of",-6,35,Africa,Sub-Saharan Africa,Eastern Africa,2019,58005000,99.732782,5800.5
+Nigeria,NGA,2019,0.09275,5135.499512,NG,Nigeria,10,8,Africa,Sub-Saharan Africa,Western Africa,2019,200964000,92.752931,20096.4
+India,IND,2019,0.09259,6713.932129,IN,India,20,77,Asia,Southern Asia,,2019,1366418048,92.587331,136641.8048
+Argentina,ARG,2019,0.09238,22066.10156,AR,Argentina,-34,-64,Americas,Latin America and the Caribbean,South America,2019,44781000,92.38293,4478.1
+Costa Rica,CRI,2019,0.08914,20937.53906,CR,Costa Rica,10,-84,Americas,Latin America and the Caribbean,Central America,2019,5048000,89.144216,504.8
+Mozambique,MOZ,2019,0.08378,1281.780029,MZ,Mozambique,-18.25,35,Africa,Sub-Saharan Africa,Eastern Africa,2019,30366000,83.77791,3036.6
+South Africa,ZAF,2019,0.07285,13709.9668,ZA,South Africa,-29,24,Africa,Sub-Saharan Africa,Southern Africa,2019,58558000,72.850849,5855.8
+Cambodia,KHM,2019,0.06751,4388.800781,KH,Cambodia,13,105,Asia,South-eastern Asia,,2019,16487000,67.507733,1648.7
+Ecuador,ECU,2019,0.06539,11370.60352,EC,Ecuador,-2,-77.5,Americas,Latin America and the Caribbean,South America,2019,17374000,65.385058,1737.4
+Tunisia,TUN,2019,0.05883,11417.12695,TN,Tunisia,34,9,Africa,Northern Africa,,2019,11695000,58.828559,1169.5
+Croatia,HRV,2019,0.05424,29336.08594,HR,Croatia,45.17,15.5,Europe,Southern Europe,,2019,4130000,54.237288,413
+Togo,TGO,2019,0.05395,2121.899902,TG,Togo,8,1.17,Africa,Sub-Saharan Africa,Western Africa,2019,8082000,53.947043,808.2
+Bahamas,BHS,2019,0.05141,36432.51953,BS,Bahamas,24.25,-76,Americas,Latin America and the Caribbean,Caribbean,2019,389000,51.413882,38.9
+Morocco,MAR,2019,0.04935,7546.754883,MA,Morocco,32,-5,Africa,Northern Africa,,2019,36472000,49.352928,3647.2
+China,CHN,2019,0.04931,15977.64551,CN,China,35,105,Asia,Eastern Asia,,2019,1433784064,49.314957,143378.4064
+Myanmar,MMR,2019,0.04707,4739.710449,MM,Myanmar,22,98,Asia,South-eastern Asia,,2019,54045000,47.071885,5404.5
+Madagascar,MDG,2019,0.02874,1618.61792,MG,Madagascar,-20,47,Africa,Sub-Saharan Africa,Eastern Africa,2019,26969000,28.736698,2696.9
+Singapore,SGP,2019,0.02826,98411.58594,SG,Singapore,1.37,103.8,Asia,South-eastern Asia,,2019,5804000,28.256375,580.4
+Mauritania,MRT,2019,0.02806,5343.998047,MR,Mauritania,20,-12,Africa,Sub-Saharan Africa,Western Africa,2019,4526000,28.060097,452.6
+Mexico,MEX,2019,0.02753,19677.27539,MX,Mexico,23,-102,Americas,Latin America and the Caribbean,Central America,2019,127576000,27.528689,12757.6
+Angola,AGO,2019,0.02702,6670.331543,AO,Angola,-12.5,18.5,Africa,Sub-Saharan Africa,Middle Africa,2019,31825000,27.022781,3182.5
+Egypt,EGY,2019,0.02461,11763.25293,EG,Egypt,27,30,Africa,Northern Africa,,2019,100388000,24.614496,10038.8
+Puerto Rico,PRI,2019,0.02421,34804.94531,PR,Puerto Rico,18.25,-66.5,Americas,Latin America and the Caribbean,Caribbean,2019,2933000,24.207296,293.3
+Ireland,IRL,2019,0.02356,86650.00781,IE,Ireland,53,-8,Europe,Northern Europe,,2019,4882000,23.55592,488.2
+Greece,GRC,2019,0.02062,29698.03125,GR,Greece,39,22,Europe,Southern Europe,,2019,10473000,20.624463,1047.3
+Antigua and Barbuda,ATG,2019,0.02062,21850.13281,AG,Antigua and Barbuda,17.05,-61.8,Americas,Latin America and the Caribbean,Caribbean,2019,97000,20.618557,9.7
+Ukraine,UKR,2019,0.01953,12804.95508,UA,Ukraine,49,32,Europe,Eastern Europe,,2019,43994000,19.52539,4399.4
+Saint Kitts and Nevis,KNA,2019,0.01887,28602.97656,KN,Saint Kitts and Nevis,17.33,-62.75,Americas,Latin America and the Caribbean,Caribbean,2019,53000,18.867925,5.3
+Chile,CHL,2019,0.01699,24967.58008,CL,Chile,-30,-71,Americas,Latin America and the Caribbean,South America,2019,18952000,16.990291,1895.2
+Netherlands,NLD,2019,0.01585,56784.03906,NL,Netherlands,52.5,5.75,Europe,Western Europe,,2019,17097000,15.850734,1709.7
+Hong Kong,HKG,2019,0.01506,59586.20313,HK,Hong Kong,22.25,114.17,Asia,Eastern Asia,,2019,7436000,15.061861,743.6
+Japan,JPN,2019,0.01446,42022.48828,JP,Japan,36,138,Asia,Eastern Asia,,2019,126860000,14.464764,12686
+New Zealand,NZL,2019,0.01422,42877.94141,NZ,New Zealand,-41,174,Oceania,Australia and New Zealand,,2019,4783000,14.217019,478.3
+Iran,IRN,2019,0.01119,12389.22363,IR,"Iran, Islamic Republic of",32,53,Asia,Southern Asia,,2019,82914000,11.19232,8291.4
+United Kingdom,GBR,2019,0.01041,47368.58594,GB,United Kingdom,54,-2,Europe,Northern Europe,,2019,67530000,10.410188,6753
+Senegal,SEN,2019,0.01037,3361.461426,SN,Senegal,14,-14,Africa,Sub-Saharan Africa,Western Africa,2019,16296000,10.370643,1629.6
+Estonia,EST,2019,0.00905,36401.10938,EE,Estonia,59,26,Europe,Northern Europe,,2019,1326000,9.049774,132.6
+Colombia,COL,2019,0.00856,14585.30273,CO,Colombia,4,-72,Americas,Latin America and the Caribbean,South America,2019,50339000,8.56195,5033.9
+Peru,PER,2019,0.00797,12853.69238,PE,Peru,-10,-76,Americas,Latin America and the Caribbean,South America,2019,32510000,7.966779,3251
+South Korea,KOR,2019,0.00755,42758.58984,KR,"Korea, Republic of",37,127.5,Asia,Eastern Asia,,2019,51225000,7.554905,5122.5
+Portugal,PRT,2019,0.00743,34945.66016,PT,Portugal,39.5,-8,Europe,Southern Europe,,2019,10226000,7.432036,1022.6
+Italy,ITA,2019,0.00684,42708.03516,IT,Italy,42.83,12.83,Europe,Southern Europe,,2019,60550000,6.837325,6055
+Canada,CAN,2019,0.00636,49171.51172,CA,Canada,60,-95,Americas,Northern America,,2019,37411000,6.361765,3741.1
+Slovenia,SVN,2019,0.00529,38946.68359,SI,Slovenia,46,15,Europe,Southern Europe,,2019,2079000,5.291005,207.9
+Spain,ESP,2019,0.00503,40802.48828,ES,Spain,40,-4,Europe,Southern Europe,,2019,46737000,5.028136,4673.7
+Kenya,KEN,2019,0.00493,4452.772949,KE,Kenya,1,38,Africa,Sub-Saharan Africa,Eastern Africa,2019,52574000,4.926389,5257.4
+Latvia,LVA,2019,0.00472,31012.13477,LV,Latvia,57,25,Europe,Northern Europe,,2019,1907000,4.719455,190.7
+Romania,ROU,2019,0.00413,29875.0625,RO,Romania,46,25,Europe,Eastern Europe,,2019,19365000,4.131164,1936.5
+Djibouti,DJI,2019,0.00411,5534.766113,DJ,Djibouti,11.5,43,Africa,Sub-Saharan Africa,Eastern Africa,2019,974000,4.106776,97.4
+Pakistan,PAK,2019,0.00403,4697.726563,PK,Pakistan,30,70,Asia,Southern Asia,,2019,216564992,4.031122,21656.4992
+Israel,ISR,2019,0.00387,40626.21484,IL,Israel,31.5,34.75,Asia,Western Asia,,2019,8519000,3.873694,851.9
+Russia,RUS,2019,0.00372,27210.54688,RU,Russian Federation,60,100,Europe,Eastern Europe,,2019,145872000,3.715586,14587.2
+France,FRA,2019,0.00361,46017.76563,FR,France,46,2,Europe,Western Europe,,2019,65130000,3.608168,6513
+Sweden,SWE,2019,0.00359,52850.57031,SE,Sweden,62,15,Europe,Northern Europe,,2019,10036000,3.587086,1003.6
+Belgium,BEL,2019,0.00295,51944.16797,BE,Belgium,50.83,4,Europe,Western Europe,,2019,11539000,2.946529,1153.9
+Lithuania,LTU,2019,0.00254,37166.21094,LT,Lithuania,56,24,Europe,Northern Europe,,2019,2760000,2.536232,276
+Cyprus,CYP,2019,0.00250,41521.92188,CY,Cyprus,35,33,Asia,Western Asia,,2019,1199000,2.502085,119.9
+Sudan,SDN,2019,0.00248,4173.566406,SD,Sudan,15,30,Africa,Northern Africa,,2019,42813000,2.475883,4281.3
+Bosnia and Herzegovina,BIH,2019,0.00182,14896.7959,BA,Bosnia and Herzegovina,44,18,Europe,Southern Europe,,2019,3301000,1.817631,330.1
+Iraq,IRQ,2019,0.00170,10935.5791,IQ,Iraq,33,44,Asia,Western Asia,,2019,39310000,1.704401,3931
+Kuwait,KWT,2019,0.00166,49853.73828,KW,Kuwait,29.34,47.66,Asia,Western Asia,,2019,4207000,1.663894,420.7
+Germany,DEU,2019,0.00160,53929.64063,DE,Germany,51,9,Europe,Western Europe,,2019,83517000,1.604464,8351.7
+Denmark,DNK,2019,0.00156,57161.6875,DK,Denmark,56,10,Europe,Northern Europe,,2019,5772000,1.559252,577.2
+United Arab Emirates,ARE,2019,0.00143,68263.67188,AE,United Arab Emirates,24,54,Asia,Western Asia,,2019,9771000,1.432811,977.1
+Australia,AUS,2019,0.00127,49309.11328,AU,Australia,-27,133,Oceania,Australia and New Zealand,,2019,25203000,1.26969,2520.3
+Bulgaria,BGR,2019,0.00100,23265.87695,BG,Bulgaria,43,25,Europe,Eastern Europe,,2019,7000000,1,700
+Namibia,NAM,2019,0.00080,9812.608398,,Namibia,-22,17,Africa,Sub-Saharan Africa,Southern Africa,2019,2495000,0.801603,249.5
+Poland,POL,2019,0.00077,33185.15625,PL,Poland,52,20,Europe,Eastern Europe,,2019,37888000,0.765414,3788.8
+Georgia,GEO,2019,0.00075,14989.25781,GE,Georgia,42,43.5,Asia,Western Asia,,2019,3997000,0.750563,399.7
+Kazakhstan,KAZ,2019,0.00070,26351.80469,KZ,Kazakhstan,48,68,Asia,Central Asia,,2019,18551000,0.700771,1855.1
+Oman,OMN,2019,0.00020,31284.01563,OM,Oman,21,57,Asia,Western Asia,,2019,4975000,0.201005,497.5
+Somalia,SOM,2019,0.00013,1186.450928,SO,Somalia,10,49,Africa,Sub-Saharan Africa,Eastern Africa,2019,15443000,0.129509,1544.3
+Jordan,JOR,2019,0.00010,10071.37988,JO,Jordan,31,36,Asia,Western Asia,,2019,10102000,0.099,1010.2
+Saudi Arabia,SAU,2019,0.00009,46962.14844,SA,Saudi Arabia,25,45,Asia,Western Asia,,2019,34269000,0.0875,3426.9
+Bahrain,BHR,2019,0.00000,45311.86328,BH,Bahrain,26,50.55,Asia,Western Asia,,2019,1641000,0,164.1
+Burkina Faso,BFA,2019,0.00000,2175.504639,BF,Burkina Faso,13,-2,Africa,Sub-Saharan Africa,Western Africa,2019,20321000,0,2032.1
+Cape Verde,CPV,2019,0.00000,7171.82666,CV,Cape Verde,16,-24,Africa,Sub-Saharan Africa,Western Africa,2019,550000,0,55
+Comoros,COM,2019,0.00000,3058.818115,KM,Comoros,-12.17,44.25,Africa,Sub-Saharan Africa,Eastern Africa,2019,851000,0,85.1
+Finland,FIN,2019,0.00000,48582.58594,FI,Finland,64,26,Europe,Northern Europe,,2019,5532000,0,553.2
+Iceland,ISL,2019,0.00000,56935.77344,IS,Iceland,65,-18,Europe,Northern Europe,,2019,339000,0,33.9
+Kiribati,KIR,2019,0.00000,2340.389893,KI,Kiribati,1.42,173,Oceania,Micronesia,,2019,118000,0,11.8
+Lesotho,LSO,2019,0.00000,2583.924316,LS,Lesotho,-29.5,28.5,Africa,Sub-Saharan Africa,Southern Africa,2019,2125000,0,212.5
+Maldives,MDV,2019,0.00000,19510.49219,MV,Maldives,3.25,73,Asia,Southern Asia,,2019,531000,0,53.1
+Malta,MLT,2019,0.00000,43950.61719,MT,Malta,35.83,14.58,Europe,Southern Europe,,2019,440000,0,44
+Marshall Islands,MHL,2019,0.00000,4048.579346,MH,Marshall Islands,9,168,Oceania,Micronesia,,2019,59000,0,5.9
+Mauritius,MUS,2019,0.00000,22869.75586,MU,Mauritius,-20.28,57.55,Africa,Sub-Saharan Africa,Eastern Africa,2019,1270000,0,127
+Montenegro,MNE,2019,0.00000,21533.93164,ME,Montenegro,42,19,Europe,Southern Europe,,2019,628000,0,62.8
+Norway,NOR,2019,0.00000,64385.00781,NO,Norway,62,10,Europe,Northern Europe,,2019,5379000,0,537.9
+Qatar,QAT,2019,0.00000,89966.45313,QA,Qatar,25.5,51.25,Asia,Western Asia,,2019,2832000,0,283.2
+Samoa,WSM,2019,0.00000,6631.586914,WS,Samoa,-13.58,-172.33,Oceania,Polynesia,,2019,197000,0,19.7
+Seychelles,SYC,2019,0.00000,27611.11914,SC,Seychelles,-4.58,55.67,Africa,Sub-Saharan Africa,Eastern Africa,2019,98000,0,9.8
+Slovakia,SVK,2019,0.00000,31927.59375,SK,Slovakia,48.67,19.5,Europe,Eastern Europe,,2019,5457000,0,545.7
+Tonga,TON,2019,0.00000,6378.128418,TO,Tonga,-20,-175,Oceania,Polynesia,,2019,104000,0,10.4
+Zimbabwe,ZWE,2019,0.00000,3630.033936,ZW,Zimbabwe,-20,30,Africa,Sub-Saharan Africa,Eastern Africa,2019,14645000,0,1464.5
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,

@@ -1,0 +1,20 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 190,
+    "height": 220,
+    "background":"#F5F5F5",
+    "description": "Plastic production by sector",
+    "data":{"url": "plastic-production-by-sector.csv"},
+    "mark": {"type": "arc", "innerRadius": 50},
+    "encoding": {
+      "theta": {"field": "production (million tonnes)", "type": "quantitative"},
+      "color": {"field": "Entity", "type": "nominal",
+      "scale": {"scheme":"redyellowblue"}},
+        
+    "tooltip": [
+        {"field": "Entity","title":"Sector"},
+        {"field": "production (million tonnes)","title":"Plastic production(million tonnes)"}
+      
+
+        ]
+    }}

@@ -1,0 +1,132 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Mismanaged waste ",
+    
+    "width": 500,
+    "height":300,
+    "background":"#F5F5F5",
+
+    "params": [
+        {
+        "name": "Continent_selection",
+
+        "bind": {
+            "input": "select",
+            "options": [
+            null,
+            "Americas",
+            "Europe",
+            "Africa",
+            "Asia",
+            "Oceania"
+            ],
+            "labels":[
+            "Show All",
+            "Americas",
+            "Europe",
+            "Africa",
+            "Asia",
+            "Oceania"
+            ],
+            "name": "Select continent: "
+            }
+            }
+               
+            ],
+            
+    
+    
+"projection": {
+"type": "equalEarth"
+
+},
+"layer": [
+    {
+        "data": {
+          "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/7_others/oceans.topojson",
+          "format": {"type": "topojson", "feature": "oceans"}
+        },
+        "mark": {"type": "geoshape", "fill": "aliceblue"}
+      },
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/js/WorldMapWithGraticules.topojson",
+          "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+        },
+        "mark": {"type": "geoshape", "fill": null, "stroke": "lightgray"}
+      },
+{
+    "data": {
+        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+      },
+
+
+"transform": [
+{
+"calculate": "datum.properties.NAME +': Data not available'",
+"as": "note"
+}
+],
+
+
+"mark": {
+"type": "geoshape",
+"fill": "#e2dfdf",
+"stroke": "white",
+"strokeWidth": 1
+},
+"encoding": {"tooltip": {"field": "note"}}
+},
+
+{
+"data": {"url":"MWlatlong_c.csv"},
+
+"transform": [
+{
+"lookup": "Entity",
+
+"from": {
+"data": {"url":
+    "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
+"format": {
+"type": "topojson",
+"feature": "ne_110m_admin_0_countries"
+}
+},
+"key": "properties.NAME"
+
+},
+"as": "geo"
+},
+
+
+{"filter": "Continent_selection == null || datum.Continent == Continent_selection"
+}
+
+],
+"mark": {"type": "geoshape", "stroke": "#fff", "strokeWidth":
+0.5},
+"encoding": {
+
+"shape": {"field": "geo", "type": "geojson"},
+"color": {
+"field": "Mismanaged waste (% global total)",
+"type": "quantitative",
+"title": "Waste%",
+"scale": {"domain": [0, 0.05, 1, 6.75, 13.5, 28], "range": ["#66b2b2", "#03737A", "#026879", "#03416B","#052F5F","#052B56"]},
+
+"legend": {"format": ".2s"}
+},
+"tooltip": [
+{"field":"Entity","type": "nominal","title":"Country"},
+{"field": "Mismanaged waste (% global total)", "type": "nominal", "title":"Mismanged waste % "}
+
+
+
+]
+}
+}
+],
+"config": {}
+}

@@ -1,0 +1,111 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 450,
+    "height": 450,
+    "background":"#F4F4F6",
+    "projection": {
+      "type": "orthographic",
+      "rotate": {"expr": "[rotate0, rotate1, 0]"}
+    },
+    "params": [
+      {
+        "name": "rotate0",
+        "value": 0,
+        "bind": {"input": "range", "min": -90, "max": 90, "step": 1}
+      },
+      {
+        "name": "rotate1",
+        "value": 0,
+        "bind": {"input": "range", "min": -90, "max": 90, "step": 1}
+      },
+
+      {
+        "name": "continent_selection",
+    
+          "bind": {
+            "input": "select",
+            "options": [
+            null,
+            "Americas",
+            "Europe",
+            "Africa",
+            "Asia",
+            "Oceania"
+            ],
+            "labels":[
+            "Show All",
+            "Americas",
+            "Europe",
+            "Africa",
+            "Asia",
+            "Oceania"
+            ],
+            "name": "Select continent: "
+            }
+    }
+
+
+
+    ],
+    "layer": [
+      {
+        "data": {"sphere": true},
+        "mark": {"type": "geoshape", "fill": "aliceblue"}
+      },
+
+      {
+    "data": {
+    "url":
+    "ne_110m.json",
+    "format": {"type": "topojson", "feature":"ne_110m_admin_0_countries"}
+    },
+
+    "mark": {"type": "geoshape", "fill": "peachpuff", "stroke":"lightblue"}
+    },
+
+      {
+        "data": {
+          "name": "PC_plastic_waste",
+          "url": "pcwg_lat_c.csv"
+          
+        },
+
+
+        "transform": [
+          {
+              "filter": "continent_selection == null || datum.region == continent_selection"}
+              
+      ],
+       
+        "mark": {"type": "circle"},
+        "encoding": {
+          "longitude": {"field": "Longitude", "type": "quantitative"},
+          "latitude": {"field": "Latitude", "type": "quantitative"},
+
+          "size": {
+            "field": "PC_plastic_waste",
+            "type": "quantitative",
+            "title": "Per Capita wastage"
+           
+          },
+
+          "color": {
+            "field": "GDP",
+            "type": "quantitative",
+            "title": "GDP per capita",
+            "scale": {"domain": [20000,120000], "range": ["#2ec4b6","#0a1128"]}
+
+          },
+
+          "tooltip": [
+            {"field": "Entity"},
+            {"field": "PC_plastic_waste","title":"Per capita plastic waste"},
+            {"field": "GDP"}
+        
+            ]
+
+            
+        }
+    }
+]
+}
